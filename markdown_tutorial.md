@@ -478,5 +478,5 @@ Markdownが書式化コマンドとして解釈する文字は、バックスラ
 
 # 参考リンク
 参考リンクについて以下に示す
-- [Markdown記法/書き方（見出し・表・リンク・画像・文字色など）](https://notepm.jp/help/how-to-markdown)
-- [Markdown記法 サンプル集](https://qiita.com/tbpgr/items/989c6badefff69377da7)
+- [Markdown記法/書き方（見出し・表・リンク・画像・文字色など） - Qiita](https://notepm.jp/help/how-to-markdown)
+- [Markdown記法 サンプル集 -NotePM](https://qiita.com/tbpgr/items/989c6badefff69377da7)
